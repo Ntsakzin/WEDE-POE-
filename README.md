@@ -65,6 +65,12 @@ Testing and Refinement (Week 7): Conduct usability testing, refine features, and
 
 Estimated R15,000 to cover hosting, API subscriptions, and ongoing maintenance. This budget ensures sustainability while allowing for future scalability and feature expansion.
 
+
+
+#SITEMAP
+<img width="1536" height="1024" alt="Copilot_20260420_224141" src="https://github.com/user-attachments/assets/5b2fbf92-92ca-447f-b64d-8607aeca05b9" />
+
+
 #References
 Unsplash. (2026). Free high‑resolution photos. Available at: https://unsplash.com [Accessed 6 April 2026]. 
 
